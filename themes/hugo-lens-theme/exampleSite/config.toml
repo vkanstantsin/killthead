@@ -1,0 +1,43 @@
+# Site settings
+baseURL = "https://example.org/"
+languageCode = "en-US"
+title = "Lens by HTML5 UP"
+theme = "hugo-lens-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+copyright = "&copy; Untitled."
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+
+  # Header
+  [params.header]
+    title = "Lens"
+    description = "Just another fine responsive site template by [HTML5 UP](//html5up.net)"
+
+  # Social Icons
+  [[params.social]]
+    label = "Twitter"
+    icon = "fa-twitter"
+    url = "https://twitter.com"
+
+  [[params.social]]
+    label = "Instagram"
+    icon = "fa-instagram"
+    url = "https://instagram.com"
+
+  [[params.social]]
+    label = "Github"
+    icon = "fa-github"
+    url = "https://github.com"
+
+  [[params.social]]
+    label = "Email"
+    icon = "fa-envelope-o"
+    url = "mailto:name@example.org"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://html5up.net/license
