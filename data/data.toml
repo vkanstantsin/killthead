@@ -2,3 +2,8 @@
   imagePathFull = "images/fulls/01.jpg"
   imagePathThumb = "images/thumbs/01.jpg"
   position = "left center"
+
+[[images]]
+ imagePathFull = "images/fulls/02.jpg"
+ imagePathThumb = "images/thumbs/02.jpg"
+ position = ""
