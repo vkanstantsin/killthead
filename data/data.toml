@@ -1,9 +1,9 @@
 [[images]]
   imagePathFull = "images/fulls/01.jpg"
   imagePathThumb = "images/thumbs/01.jpg"
-  position = ""
+  position = 100%
 
 [[images]]
  imagePathFull = "images/fulls/02.jpg"
  imagePathThumb = "images/thumbs/02.jpg"
- position = ""
+ position = 100%
